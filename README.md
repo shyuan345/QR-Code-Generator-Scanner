@@ -2,6 +2,8 @@
 
 This project contains the QR code features I worked on: generating QR images, reading QR codes from image files, and scanning with a webcam. The code is in `qr_code.py` and has no graphical interface.
 
+These features came from the [original EECE2140 team project](https://github.com/Rand-Sai/EECE2140-S24-Project), a QR code application built with Zekun Lin. The original repository includes the GUI and lists both of us as contributors.
+
 ## Setup
 
 Install [qrcode](https://pypi.org/project/qrcode/) with Pillow support and [OpenCV](https://pypi.org/project/opencv-python/):
